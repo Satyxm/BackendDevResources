@@ -67,8 +67,6 @@ Contribute to BackendDevResources and help the community grow! If you have valua
 5. Push to the branch: `git push origin your-feature`.
 6. Submit a pull request.
 
-Please ensure your contributions adhere to our [Contribution Guidelines](link-to-guidelines) and our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please ensure your contributions adhere to our [Contribution Guidelines](ContributionGuidelines.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## License
 
-This repository is licensed under the [MIT License](link-to-license). Feel free to use and distribute the content within the guidelines of this license.
