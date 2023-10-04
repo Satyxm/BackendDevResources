@@ -4,6 +4,8 @@
 # BackendDevResources
 The idea behind this repo is to make a curated collection of backend dev resources, While learning backend dev i found lack of resources therefore, making this repo, Your contributions are most welcome :)
 
+Feel Free to add more Topics, these were Major Topics for me, So i added these to the readme :)
+
 You can Provide valuable resources for the following:
 
 ## Table of Contents
