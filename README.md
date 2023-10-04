@@ -67,7 +67,7 @@ Contribute to BackendDevResources and help the community grow! If you have valua
 5. Push to the branch: `git push origin your-feature`.
 6. Submit a pull request.
 
-Please ensure your contributions adhere to our [Contribution Guidelines](link-to-guidelines) and our [Code of Conduct](link-to-code-of-conduct).
+Please ensure your contributions adhere to our [Contribution Guidelines](link-to-guidelines) and our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
