@@ -1,14 +1,13 @@
 ![Pink Watercolour Quote Twitter Header](https://github.com/Satyxm/BackendDevResources/assets/97077594/b31852b6-9bb3-4ed1-8a65-76e1084cbfed)
 
 
-# BackendDevResources
-The idea behind this repo is to make a curated collection of backend dev resources, While learning backend dev i found lack of resources therefore, making this repo, Your contributions are most welcome :)
+# Table of Contents: Backend Development Resources
 
-Feel Free to add more Topics, these were Major Topics for me, So i added these to the readme :)
+This repository offers clear, step-by-step guides for building fundamental backend technologies from scratch. Dive into simplified tutorials designed to enhance your backend development skills.
 
-You can Provide valuable resources for the following:
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. — Richard Feynman.
 
-## Table of Contents
+Happy Learning Fellas!
 
 - [Getting Started](#getting-started)
 - [Languages](#languages)
