@@ -47,6 +47,7 @@ Explore resources related to backend development in popular programming language
 Discover guides and tutorials for various backend frameworks:
 
 - [Django](link-to-django-resources)
+- [Spring Boot](link-to-java-resources)
 - [Express.js](link-to-expressjs-resources)
 - [Flask](link-to-flask-resources)
 - [Ruby on Rails](link-to-rails-resources)
