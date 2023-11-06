@@ -35,14 +35,16 @@ New to backend development? Start with these resources to understand the fundame
 
 Explore resources related to backend development in popular programming languages of your choice:
 
+
+
+- [C#](link-to-ruby-resources)
+- [JavaScript (Node.js)](link-to-nodejs-resources)
 - [Python](link-to-python-resources)
 - [Java](link-to-java-resources)
-- [JavaScript (Node.js)](link-to-nodejs-resources)
 - [Ruby](link-to-ruby-resources)
 - [Golang](link-to-ruby-resources)
 - [Rust](link-to-ruby-resources)
 - [PHP](link-to-php-resources)
-- [C#](link-to-ruby-resources)
 
 ## Frameworks
 
