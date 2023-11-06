@@ -33,7 +33,7 @@ New to backend development? Start with these resources to understand the fundame
 
 ## Programming Languages
 
-Explore resources related to backend development in popular programming languages of your choice:
+Pick any one programming language of your choice:
 
 
 
