@@ -31,7 +31,7 @@ New to backend development? Start with these resources to understand the fundame
 - [Basics of Backend Programming](https://www.codecademy.com/learn/introduction-to-back-end-programming)
 - [Setting Up Your Development Environment](https://youtu.be/ZbQQYUl-ojA?si=jSyzSHG0rvABgIQo)
 
-## Languages
+## Programming Languages
 
 Explore resources related to backend development in popular programming languages of your choice:
 
@@ -39,7 +39,10 @@ Explore resources related to backend development in popular programming language
 - [Java](link-to-java-resources)
 - [JavaScript (Node.js)](link-to-nodejs-resources)
 - [Ruby](link-to-ruby-resources)
+- [Golang](link-to-ruby-resources)
+- [Rust](link-to-ruby-resources)
 - [PHP](link-to-php-resources)
+- [C#](link-to-ruby-resources)
 
 ## Frameworks
 
