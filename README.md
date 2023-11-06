@@ -29,12 +29,12 @@ You can Provide valuable resources for the following:
 New to backend development? Start with these resources to understand the fundamentals:
 
 - [Introduction to Backend Development](https://www.freecodecamp.org/news/learn-backend-development/)
-- [Basics of Backend Programming](link-to-basics)
-- [Setting Up Your Development Environment](link-to-setup)
+- [Basics of Backend Programming](https://www.codecademy.com/learn/introduction-to-back-end-programming)
+- [Setting Up Your Development Environment](https://youtu.be/ZbQQYUl-ojA?si=jSyzSHG0rvABgIQo)
 
 ## Languages
 
-Explore resources related to backend development in popular programming languages:
+Explore resources related to backend development in popular programming languages of your choice:
 
 - [Python](link-to-python-resources)
 - [Java](link-to-java-resources)
