@@ -3,7 +3,7 @@
 
 # Table of Contents: Backend Development Resources
 
-This repository offers clear, step-by-step guides for building fundamental backend technologies from scratch. Dive into simplified tutorials designed to enhance your backend development skills.
+This repository offers clear, step-by-step guides for learning backend development from scratch to advanced.
 
 > Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. — Richard Feynman.
 
