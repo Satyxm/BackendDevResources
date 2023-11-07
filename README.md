@@ -39,6 +39,7 @@ Pick any one programming language of your choice:
 
 
 - [C#](link-to-ruby-resources)
+  - [Basics](https://www.w3schools.com/cs/index.php)
 - [JavaScript (Node.js)](link-to-nodejs-resources)
 - [Python](link-to-python-resources)
 - [Java](link-to-java-resources)
