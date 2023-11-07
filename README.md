@@ -12,47 +12,118 @@ Happy Learning Fellas!
 
 - [Getting Started](#getting-started)
 - [Programming Languages](#programming-languages)
+  - [C#](#c)
+  - [JavaScript (Node.js)](#javascript-nodejs)
+  - [Python](#python)
+  - [PHP](#php)
+  - [Ruby](#ruby)
+  - [Java](#java)
+  - [Rust](#rust)
+  - [Golang](#golang)
+  
 - [Frameworks](#frameworks)
+  - [Spring (Java)](#spring)
+  - [Django (Python)](#django)
+  - [Express.js (Node.js)](#expressjs)
+  - [Ruby on Rails (Ruby)](#ruby-on-rails)
+  - [.NET (C#)](#dotnet)
+  - [Flask (Python)](#flask)
 - [Databases](#databases)
+  - [Relational Databases](#relational-databases)
+    - [MySQL](#mysql)
+    - [PostgreSQL](#postgresql)
+    - [SQLite](#sqlite)
+    - [Microsoft SQL Server](#microsoft-sql-server)
+  - [NoSQL Databases](#nosql-databases)
+    - [MongoDB](#mongodb)
+    - [Cassandra](#cassandra)
+    - [Redis](#redis)
+    - [Couchbase](#couchbase)
 - [API Design and Documentation](#api-design-and-documentation)
+  - [RESTful APIs](#restful-apis)
+  - [GraphQL](#graphql)
+  - [API Documentation Tools](#api-documentation-tools)
 - [Authentication and Authorization](#authentication-and-authorization)
+  - [OAuth](#oauth)
+  - [JWT (JSON Web Tokens)](#jwt-json-web-tokens)
+  - [OAuth2](#oauth2)
+  - [OpenID Connect](#openid-connect)
 - [Performance Optimization](#performance-optimization)
+  - [Caching Strategies](#caching-strategies)
+  - [Load Balancing](#load-balancing)
+  - [Database Indexing](#database-indexing)
+  - [Asynchronous Processing](#asynchronous-processing)
 - [Testing](#testing)
+  - [Unit Testing](#unit-testing)
+  - [Integration Testing](#integration-testing)
+  - [End-to-End Testing](#end-to-end-testing)
+  - [Mocking](#mocking)
 - [Security](#security)
+  - [SSL/TLS](#ssltls)
+  - [Cross-Site Scripting (XSS) Protection](#cross-site-scripting-xss-protection)
+  - [Cross-Site Request Forgery (CSRF) Protection](#cross-site-request-forgery-csrf-protection)
+  - [Security Headers](#security-headers)
+  - [Content Security Policy (CSP)](#content-security-policy-csp)
 - [Microservices and Containers](#microservices-and-containers)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+  - [Service Mesh (e.g., Istio)](#service-mesh)
+  - [Microservices Architecture](#microservices-architecture)
 - [Serverless Computing](#serverless-computing)
+  - [AWS Lambda](#aws-lambda)
+  - [Azure Functions](#azure-functions)
+  - [Google Cloud Functions](#google-cloud-functions)
 - [Version Control and Collaboration](#version-control-and-collaboration)
+  - [Git](#git)
+  - [GitHub](#github)
+  - [GitLab](#gitlab)
+  - [Bitbucket](#bitbucket)
 - [Blogs and Newsletters](#blogs-and-newsletters)
-
+  - [Medium Publications](#medium-publications)
+  - [Dev.to](#devto)
+  - [Hacker News](#hacker-news)
+  - [Newsletter Subscriptions](#newsletter-subscriptions)
+ 
 ## Getting Started
-
-New to backend development? Start with these resources to understand the fundamentals:
-
-- [Introduction to Backend Development](https://www.freecodecamp.org/news/learn-backend-development/)
-- [Basics of Backend Programming](https://www.codecademy.com/learn/introduction-to-back-end-programming)
-- [Setting Up Your Development Environment](https://youtu.be/ZbQQYUl-ojA?si=jSyzSHG0rvABgIQo)
+  - [Introduction to Backend Development](https://www.freecodecamp.org/news/learn-backend-development/)
+  - [Basics of Backend Programming](https://www.codecademy.com/learn/introduction-to-back-end-programming)
+  - [Setting Up Your Development Environment](https://youtu.be/ZbQQYUl-ojA?si=jSyzSHG0rvABgIQo)
 
 ## Programming Languages
 
 Pick any one programming language (of your choice):
 
-
-
+### C#
 - [C#](https://www.w3schools.com/cs/index.php)
   - [Basics](https://youtu.be/gfkTfcpWqAY?si=FlMvdVwVKf-ichsv)
+ 
+### JavaScript (Node.js)
 - [JavaScript (Node.js)](https://nodejs.org/en/learn)
-  - [Basics](https://youtu.be/pkg0J6lpKT4?si=qf9KkGWJRgPkz0Ob) 
+  - [Basics](https://youtu.be/pkg0J6lpKT4?si=qf9KkGWJRgPkz0Ob)
+ 
+### Python
 - [Python](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
-  - [Basics](https://www.youtube.com/live/woVJ4N5nl_s?si=RSZvdogkwzZsn-RA) 
+  - [Basics](https://www.youtube.com/live/woVJ4N5nl_s?si=RSZvdogkwzZsn-RA)
+ 
+### PHP
 - [PHP](https://www.w3schools.com/php/)
   - [Basics](https://youtu.be/PGvrnas2_Pk?si=HKw1KPZxiND589YJ)
-- [Ruby]()
-  - [Basics](https://www.ruby-lang.org/en/documentation/quickstart/) 
-- [Rust]()
-  - [Basics]() 
-- [Golang]()
-  - [Basics]()
+ 
+### Ruby
+- [Ruby](https://www.ruby-lang.org/en/documentation/quickstart/)
+  - [Basics](https://www.ruby-lang.org/en/documentation/quickstart/)
 
+### Java
+- [Java]()
+  - [Basics]()
+ 
+### Rust
+- [Rust](link-to-rust-resources)
+  - [Basics](link-to-rust-resources)
+
+ ### Golang
+- [Golang](link-to-golang-resources)
+  - [Basics](link-to-golang-resources)
 
 ## Frameworks
 
@@ -74,6 +145,10 @@ Learn about different database systems and best practices for backend developers
 - [MongoDB](link-to-mongodb-resources)
 - [SQLite](link-to-sqlite-resources)
 
+
+
+
+
 ## Contributing
 
 Contribute to BackendDevResources and help the community grow! If you have valuable backend development resources to share, follow these steps:
@@ -86,5 +161,3 @@ Contribute to BackendDevResources and help the community grow! If you have valua
 6. Submit a pull request.
 
 Please ensure your contributions adhere to our [Contribution Guidelines](ContributionGuidelines.md) and our [Code of Conduct](CODE_OF_CONDUCT.md).
-
-
