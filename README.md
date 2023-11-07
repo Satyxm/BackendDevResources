@@ -40,7 +40,8 @@ Pick any one programming language (of your choice):
 
 - [C#](https://www.w3schools.com/cs/index.php)
   - [Basics](https://youtu.be/gfkTfcpWqAY?si=FlMvdVwVKf-ichsv)
-- [JavaScript (Node.js)](link-to-nodejs-resources)
+- [JavaScript (Node.js)](https://nodejs.org/en/learn)
+  - [Basics](https://youtu.be/pkg0J6lpKT4?si=qf9KkGWJRgPkz0Ob) 
 - [Python](link-to-python-resources)
 - [Java](link-to-java-resources)
 - [Ruby](link-to-ruby-resources)
