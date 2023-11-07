@@ -11,7 +11,7 @@ This repository offers clear, step-by-step guides for learning backend developme
 Happy Learning Fellas!
 
 - [Getting Started](#getting-started)
-- [Programming Languages](#languages)
+- [Programming Languages](#programming-languages)
 - [Frameworks](#frameworks)
 - [Databases](#databases)
 - [API Design and Documentation](#api-design-and-documentation)
