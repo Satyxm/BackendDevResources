@@ -42,12 +42,17 @@ Pick any one programming language (of your choice):
   - [Basics](https://youtu.be/gfkTfcpWqAY?si=FlMvdVwVKf-ichsv)
 - [JavaScript (Node.js)](https://nodejs.org/en/learn)
   - [Basics](https://youtu.be/pkg0J6lpKT4?si=qf9KkGWJRgPkz0Ob) 
-- [Python](link-to-python-resources)
-- [Java](link-to-java-resources)
-- [Ruby](link-to-ruby-resources)
-- [Golang](link-to-ruby-resources)
-- [Rust](link-to-ruby-resources)
-- [PHP](link-to-php-resources)
+- [Python](https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/)
+  - [Basics](https://www.youtube.com/live/woVJ4N5nl_s?si=RSZvdogkwzZsn-RA) 
+- [PHP](https://www.w3schools.com/php/)
+  - [Basics](https://youtu.be/PGvrnas2_Pk?si=HKw1KPZxiND589YJ)
+- [Ruby]()
+  - [Basics](https://www.ruby-lang.org/en/documentation/quickstart/) 
+- [Rust]()
+  - [Basics]() 
+- [Golang]()
+  - [Basics]()
+
 
 ## Frameworks
 
