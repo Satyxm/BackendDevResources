@@ -28,6 +28,7 @@ Happy Learning Fellas!
   - [Ruby on Rails (Ruby)](#ruby-on-rails)
   - [.NET (C#)](#dotnet)
   - [Flask (Python)](#flask)
+  - [Laravel(PHP)](#laravel)
 - [Databases](#databases)
   - [Relational Databases](#relational-databases)
     - [MySQL](#mysql)
