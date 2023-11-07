@@ -34,12 +34,12 @@ New to backend development? Start with these resources to understand the fundame
 
 ## Programming Languages
 
-Pick any one programming language of your choice:
+Pick any one programming language (of your choice):
 
 
 
-- [C#](link-to-ruby-resources)
-  - [Basics](https://www.w3schools.com/cs/index.php)
+- [C#](https://www.w3schools.com/cs/index.php)
+  - [Basics](https://youtu.be/gfkTfcpWqAY?si=FlMvdVwVKf-ichsv)
 - [JavaScript (Node.js)](link-to-nodejs-resources)
 - [Python](link-to-python-resources)
 - [Java](link-to-java-resources)
