@@ -117,8 +117,8 @@ Pick any one programming language (of your choice):
   - [Basics](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 ### Java
-- [Java]()
-  - [Basics]()
+- [Java](https://dev.java/learn/)
+  - [Basics](https://www.w3schools.com/java/java_intro.asp)
  
 ### Rust
 - [Rust](link-to-rust-resources)
