@@ -22,12 +22,12 @@
 - [Which one to use MVC vs MVP vs MVVM?](https://www.youtube.com/watch?v=eHhXoCNCI1c&t=3s)
 
 ## 3. SQL
--[Types of DataBases](https://www.youtube.com/watch?v=E9AgJnsEvG4)
--[All about SQL in Theory](https://youtu.be/h0nxCDiD-zg?si=QsvJFTPDNRsryYLI)
+- [Types of DataBases](https://www.youtube.com/watch?v=E9AgJnsEvG4)
+- [All about SQL in Theory](https://youtu.be/h0nxCDiD-zg?si=QsvJFTPDNRsryYLI)
 - [Codeacademy SQL](https://www.codecademy.com/learn/learn-sql)
+- [edx course](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home)
 - [Interview Questions](https://datalemur.com/sql-interview-questions)
-  
-# Table of Contents: Backend Development Resources
+- [Dependency Injection](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 
 This repository offers clear, step-by-step guides for learning backend development from scratch to advanced.
 
