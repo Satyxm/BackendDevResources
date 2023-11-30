@@ -1,6 +1,18 @@
 ![White Minimalist Profile Header LinkedIn Banner](https://github.com/Satyxm/BackendDevResources/assets/97077594/f470e7b0-a6cb-4e0a-8157-12f48571a1f1)
 
 
+# Roadmap
+## 1. API DEVELOPMENT
+### Prerequisite
+- [Prerequite for learning API Development](https://www.youtube.com/watch?v=iiADhChRriM)
+### Introductory
+- [REST API](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+- [Intro to API](https://www.youtube.com/watch?v=p6f58wTPGf8)
+### Next Steps
+- [API for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+- [Build and Sell your own API](https://www.youtube.com/watch?v=GK4Pl-GmPHk)
+### Hands-On learning
+- [Swapi](https://swapi.dev/)
 
 # Table of Contents: Backend Development Resources
 
