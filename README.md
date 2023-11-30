@@ -14,6 +14,13 @@
 ### Hands-On learning
 - [Swapi](https://swapi.dev/)
 
+## 2. Design Pattern
+### MVC Pattern
+- [MVC Intro](https://www.youtube.com/watch?v=1IsL6g2ixak)
+- [MVC With Node.js and Express.js](https://www.youtube.com/watch?v=Cgvopu9zg8Y)
+- [What is MVC vs MVP vs MVVM?](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)
+- [Which one to use MVC vs MVP vs MVVM?](https://www.youtube.com/watch?v=eHhXoCNCI1c&t=3s)
+
 # Table of Contents: Backend Development Resources
 
 This repository offers clear, step-by-step guides for learning backend development from scratch to advanced.
