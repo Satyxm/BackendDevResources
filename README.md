@@ -121,7 +121,7 @@ Happy Learning Fellas!
 Pick any one programming language (of your choice):
 
 ### C++
-- [C++]((https://www.w3schools.com/cpp/default.asp))
+- [C++](https://www.w3schools.com/cpp/default.asp))
   
 ### C#
 - [C#](https://www.w3schools.com/cs/index.php)
