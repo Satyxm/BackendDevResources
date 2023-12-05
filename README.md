@@ -38,6 +38,7 @@ Happy Learning Fellas!
 - [Getting Started](#getting-started)
 - [Programming Languages](#programming-languages)
   - [C#](#c)
+  - [C++](#c++)
   - [JavaScript (Node.js)](#javascript-nodejs)
   - [Python](#python)
   - [PHP](#php)
