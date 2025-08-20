@@ -4,7 +4,7 @@
 # ROADMAP
 ## 1. API DEVELOPMENT
 ### Prerequisite
-- [Prerequite for learning API Development](https://www.youtube.com/watch?v=iiADhChRriM)
+- [Prerequisite for learning API Development](https://www.youtube.com/watch?v=iiADhChRriM)
 ### Introductory
 - [REST API](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 - [Intro to API](https://www.youtube.com/watch?v=p6f58wTPGf8)
