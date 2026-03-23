@@ -177,10 +177,10 @@ Discover guides and tutorials for various backend frameworks:
 
 Learn about different database systems and best practices for backend developers:
 
-- [MySQL](link-to-mysql-resources)
-- [PostgreSQL](link-to-postgresql-resources)
-- [MongoDB](link-to-mongodb-resources)
-- [SQLite](link-to-sqlite-resources)
+- [MySQL](https://www.w3schools.com/MySQL/default.asp)
+- [PostgreSQL](https://youtu.be/SpfIwlAYaKk)
+- [MongoDB](https://www.mongodb.com/resources/products/fundamentals/basics)
+- [SQLite](https://www.sqlitetutorial.net/sqlite-sample-database/)
 
 
 
